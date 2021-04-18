@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+opencv-python = "*"
+numpy = "*"
+create-capture = "*"
+video = "*"
+image = "*"
+
+[requires]
+python_version = "2.7"
